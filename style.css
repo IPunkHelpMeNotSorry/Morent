@@ -75,7 +75,7 @@ input{
 .f{
 	width: 45%;
 	height: auto;
-	background-image: url(img/Ads1.png);
+	background-image: url(.img/Ads1.png);
 	background-size: cover;
 	display: inline-block;
 	padding: 24px;
@@ -83,7 +83,7 @@ input{
 }
 
 #dva{
-	background-image: url(img/ads2.png);
+	background-image: url(.img/ads2.png);
 }
 .adds .container{
 	height: inherit;
